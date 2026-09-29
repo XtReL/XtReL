@@ -8,6 +8,6 @@
 - **DevSecOps Gatekeeper**: secret scanner for GitHub; findings stored as
   SHA-256 fingerprints, scan evidence signed via Trust Core.
 
-Пишу о проверке результатов ИИ-агентов: Habr · dev.to
+   Пишу о проверке результатов ИИ-агентов: [Habr](https://habr.com/ru/users/Laratok/) · [dev.to](https://dev.to/xtrel)
 
 > A declaration is not a confirmed fact.
