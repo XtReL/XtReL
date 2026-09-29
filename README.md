@@ -1,16 +1,13 @@
-## Hi there 👋
+### Madi Baimuratov · XtReL
 
-<!--
-**XtReL/XtReL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Инженер-метролог, 18 лет в промышленной автоматизации. Строю системы,
+результат которых можно проверить, а не только заявить.
 
-Here are some ideas to get you started:
+- **Trust Core**: signed evidence log, in-toto/DSSE attestations in an
+  RFC 6962 transparency log. Go, zero dependencies.
+- **DevSecOps Gatekeeper**: secret scanner for GitHub; findings stored as
+  SHA-256 fingerprints, scan evidence signed via Trust Core.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Пишу о проверке результатов ИИ-агентов: Habr · dev.to
+
+> A declaration is not a confirmed fact.
